@@ -3,3 +3,5 @@
 Using Passport to enable logging in with Google. The logged in user is stored in the database as defined in the User model. 
 
 Handlebars is used as the templating engine to serve the log in page
+
+You can view the live app here
