@@ -4,4 +4,4 @@ Using Passport to enable logging in with Google. The logged in user is stored in
 
 Handlebars is used as the templating engine to serve the log in page
 
-You can view the live app here
+You can view the live app here: https://passportauth-production.up.railway.app/
